@@ -1,0 +1,1726 @@
+{
+    "Woodland": [
+        {
+            "row_number": 1,
+            "space_number": 1,
+            "tl_coordinates": {
+                "x": 1408.0,
+                "y": 114.0
+            },
+            "br_coordinates": {
+                "x": 1427.0,
+                "y": 135.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 2,
+            "tl_coordinates": {
+                "x": 1393.0,
+                "y": 118.0
+            },
+            "br_coordinates": {
+                "x": 1412.0,
+                "y": 140.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 3,
+            "tl_coordinates": {
+                "x": 1378.0,
+                "y": 120.0
+            },
+            "br_coordinates": {
+                "x": 1397.0,
+                "y": 144.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 4,
+            "tl_coordinates": {
+                "x": 1365.0,
+                "y": 123.0
+            },
+            "br_coordinates": {
+                "x": 1382.0,
+                "y": 146.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 5,
+            "tl_coordinates": {
+                "x": 1350.0,
+                "y": 129.0
+            },
+            "br_coordinates": {
+                "x": 1367.0,
+                "y": 150.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 6,
+            "tl_coordinates": {
+                "x": 1335.0,
+                "y": 133.0
+            },
+            "br_coordinates": {
+                "x": 1352.0,
+                "y": 155.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 7,
+            "tl_coordinates": {
+                "x": 1320.0,
+                "y": 135.0
+            },
+            "br_coordinates": {
+                "x": 1339.0,
+                "y": 159.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 8,
+            "tl_coordinates": {
+                "x": 1307.0,
+                "y": 140.0
+            },
+            "br_coordinates": {
+                "x": 1324.0,
+                "y": 163.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 9,
+            "tl_coordinates": {
+                "x": 1292.0,
+                "y": 144.0
+            },
+            "br_coordinates": {
+                "x": 1309.0,
+                "y": 165.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 10,
+            "tl_coordinates": {
+                "x": 1277.0,
+                "y": 148.0
+            },
+            "br_coordinates": {
+                "x": 1294.0,
+                "y": 170.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 11,
+            "tl_coordinates": {
+                "x": 1264.0,
+                "y": 153.0
+            },
+            "br_coordinates": {
+                "x": 1282.0,
+                "y": 174.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 12,
+            "tl_coordinates": {
+                "x": 1249.0,
+                "y": 157.0
+            },
+            "br_coordinates": {
+                "x": 1267.0,
+                "y": 178.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 13,
+            "tl_coordinates": {
+                "x": 1234.0,
+                "y": 159.0
+            },
+            "br_coordinates": {
+                "x": 1252.0,
+                "y": 180.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 14,
+            "tl_coordinates": {
+                "x": 1219.0,
+                "y": 165.0
+            },
+            "br_coordinates": {
+                "x": 1239.0,
+                "y": 187.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 15,
+            "tl_coordinates": {
+                "x": 1204.0,
+                "y": 168.0
+            },
+            "br_coordinates": {
+                "x": 1222.0,
+                "y": 189.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 16,
+            "tl_coordinates": {
+                "x": 1192.0,
+                "y": 172.0
+            },
+            "br_coordinates": {
+                "x": 1207.0,
+                "y": 193.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 17,
+            "tl_coordinates": {
+                "x": 1177.0,
+                "y": 176.0
+            },
+            "br_coordinates": {
+                "x": 1194.0,
+                "y": 195.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 18,
+            "tl_coordinates": {
+                "x": 1162.0,
+                "y": 178.0
+            },
+            "br_coordinates": {
+                "x": 1179.0,
+                "y": 200.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 19,
+            "tl_coordinates": {
+                "x": 1149.0,
+                "y": 185.0
+            },
+            "br_coordinates": {
+                "x": 1164.0,
+                "y": 204.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 20,
+            "tl_coordinates": {
+                "x": 1132.0,
+                "y": 187.0
+            },
+            "br_coordinates": {
+                "x": 1151.0,
+                "y": 208.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 21,
+            "tl_coordinates": {
+                "x": 1117.0,
+                "y": 193.0
+            },
+            "br_coordinates": {
+                "x": 1134.0,
+                "y": 210.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 22,
+            "tl_coordinates": {
+                "x": 1104.0,
+                "y": 195.0
+            },
+            "br_coordinates": {
+                "x": 1121.0,
+                "y": 219.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 23,
+            "tl_coordinates": {
+                "x": 1089.0,
+                "y": 197.0
+            },
+            "br_coordinates": {
+                "x": 1106.0,
+                "y": 223.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 24,
+            "tl_coordinates": {
+                "x": 1074.0,
+                "y": 204.0
+            },
+            "br_coordinates": {
+                "x": 1093.0,
+                "y": 225.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 25,
+            "tl_coordinates": {
+                "x": 1061.0,
+                "y": 206.0
+            },
+            "br_coordinates": {
+                "x": 1076.0,
+                "y": 230.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 26,
+            "tl_coordinates": {
+                "x": 1044.0,
+                "y": 210.0
+            },
+            "br_coordinates": {
+                "x": 1061.0,
+                "y": 232.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 27,
+            "tl_coordinates": {
+                "x": 1031.0,
+                "y": 212.0
+            },
+            "br_coordinates": {
+                "x": 1046.0,
+                "y": 238.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 28,
+            "tl_coordinates": {
+                "x": 1016.0,
+                "y": 217.0
+            },
+            "br_coordinates": {
+                "x": 1031.0,
+                "y": 238.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 29,
+            "tl_coordinates": {
+                "x": 1001.0,
+                "y": 219.0
+            },
+            "br_coordinates": {
+                "x": 1018.0,
+                "y": 242.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 30,
+            "tl_coordinates": {
+                "x": 986.0,
+                "y": 221.0
+            },
+            "br_coordinates": {
+                "x": 1003.0,
+                "y": 247.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 31,
+            "tl_coordinates": {
+                "x": 971.0,
+                "y": 223.0
+            },
+            "br_coordinates": {
+                "x": 988.0,
+                "y": 249.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 32,
+            "tl_coordinates": {
+                "x": 956.0,
+                "y": 225.0
+            },
+            "br_coordinates": {
+                "x": 971.0,
+                "y": 251.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 33,
+            "tl_coordinates": {
+                "x": 941.0,
+                "y": 227.0
+            },
+            "br_coordinates": {
+                "x": 956.0,
+                "y": 251.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 34,
+            "tl_coordinates": {
+                "x": 928.0,
+                "y": 230.0
+            },
+            "br_coordinates": {
+                "x": 943.0,
+                "y": 253.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 35,
+            "tl_coordinates": {
+                "x": 913.0,
+                "y": 234.0
+            },
+            "br_coordinates": {
+                "x": 928.0,
+                "y": 257.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 36,
+            "tl_coordinates": {
+                "x": 896.0,
+                "y": 234.0
+            },
+            "br_coordinates": {
+                "x": 911.0,
+                "y": 262.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 37,
+            "tl_coordinates": {
+                "x": 881.0,
+                "y": 236.0
+            },
+            "br_coordinates": {
+                "x": 896.0,
+                "y": 260.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 38,
+            "tl_coordinates": {
+                "x": 868.0,
+                "y": 236.0
+            },
+            "br_coordinates": {
+                "x": 879.0,
+                "y": 262.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 39,
+            "tl_coordinates": {
+                "x": 851.0,
+                "y": 238.0
+            },
+            "br_coordinates": {
+                "x": 866.0,
+                "y": 266.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 40,
+            "tl_coordinates": {
+                "x": 838.0,
+                "y": 240.0
+            },
+            "br_coordinates": {
+                "x": 853.0,
+                "y": 266.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 41,
+            "tl_coordinates": {
+                "x": 823.0,
+                "y": 240.0
+            },
+            "br_coordinates": {
+                "x": 836.0,
+                "y": 268.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 42,
+            "tl_coordinates": {
+                "x": 809.0,
+                "y": 242.0
+            },
+            "br_coordinates": {
+                "x": 821.0,
+                "y": 266.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 43,
+            "tl_coordinates": {
+                "x": 794.0,
+                "y": 242.0
+            },
+            "br_coordinates": {
+                "x": 806.0,
+                "y": 268.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 44,
+            "tl_coordinates": {
+                "x": 779.0,
+                "y": 242.0
+            },
+            "br_coordinates": {
+                "x": 791.0,
+                "y": 270.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 45,
+            "tl_coordinates": {
+                "x": 761.0,
+                "y": 242.0
+            },
+            "br_coordinates": {
+                "x": 776.0,
+                "y": 268.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 46,
+            "tl_coordinates": {
+                "x": 749.0,
+                "y": 242.0
+            },
+            "br_coordinates": {
+                "x": 759.0,
+                "y": 268.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 47,
+            "tl_coordinates": {
+                "x": 734.0,
+                "y": 242.0
+            },
+            "br_coordinates": {
+                "x": 744.0,
+                "y": 270.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 48,
+            "tl_coordinates": {
+                "x": 719.0,
+                "y": 240.0
+            },
+            "br_coordinates": {
+                "x": 727.0,
+                "y": 270.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 49,
+            "tl_coordinates": {
+                "x": 699.0,
+                "y": 238.0
+            },
+            "br_coordinates": {
+                "x": 710.0,
+                "y": 268.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 50,
+            "tl_coordinates": {
+                "x": 684.0,
+                "y": 236.0
+            },
+            "br_coordinates": {
+                "x": 695.0,
+                "y": 268.0
+            }
+        },
+        {
+            "row_number": 1,
+            "space_number": 52,
+            "tl_coordinates": {
+                "x": 669.0,
+                "y": 236.0
+            },
+            "br_coordinates": {
+                "x": 678.0,
+                "y": 264.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 1,
+            "tl_coordinates": {
+                "x": 1365.0,
+                "y": 200.0
+            },
+            "br_coordinates": {
+                "x": 1382.0,
+                "y": 219.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 2,
+            "tl_coordinates": {
+                "x": 1354.0,
+                "y": 202.0
+            },
+            "br_coordinates": {
+                "x": 1367.0,
+                "y": 223.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 3,
+            "tl_coordinates": {
+                "x": 1335.0,
+                "y": 204.0
+            },
+            "br_coordinates": {
+                "x": 1352.0,
+                "y": 227.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 4,
+            "tl_coordinates": {
+                "x": 1320.0,
+                "y": 208.0
+            },
+            "br_coordinates": {
+                "x": 1339.0,
+                "y": 230.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 5,
+            "tl_coordinates": {
+                "x": 1305.0,
+                "y": 210.0
+            },
+            "br_coordinates": {
+                "x": 1324.0,
+                "y": 234.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 6,
+            "tl_coordinates": {
+                "x": 1292.0,
+                "y": 216.0
+            },
+            "br_coordinates": {
+                "x": 1309.0,
+                "y": 238.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 7,
+            "tl_coordinates": {
+                "x": 1277.0,
+                "y": 219.0
+            },
+            "br_coordinates": {
+                "x": 1296.0,
+                "y": 242.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 9,
+            "tl_coordinates": {
+                "x": 1262.0,
+                "y": 223.0
+            },
+            "br_coordinates": {
+                "x": 1282.0,
+                "y": 247.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 10,
+            "tl_coordinates": {
+                "x": 1249.0,
+                "y": 225.0
+            },
+            "br_coordinates": {
+                "x": 1267.0,
+                "y": 249.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 11,
+            "tl_coordinates": {
+                "x": 1234.0,
+                "y": 232.0
+            },
+            "br_coordinates": {
+                "x": 1252.0,
+                "y": 251.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 12,
+            "tl_coordinates": {
+                "x": 1219.0,
+                "y": 236.0
+            },
+            "br_coordinates": {
+                "x": 1237.0,
+                "y": 257.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 13,
+            "tl_coordinates": {
+                "x": 1204.0,
+                "y": 238.0
+            },
+            "br_coordinates": {
+                "x": 1224.0,
+                "y": 262.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 14,
+            "tl_coordinates": {
+                "x": 1187.0,
+                "y": 242.0
+            },
+            "br_coordinates": {
+                "x": 1209.0,
+                "y": 266.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 15,
+            "tl_coordinates": {
+                "x": 1175.0,
+                "y": 249.0
+            },
+            "br_coordinates": {
+                "x": 1192.0,
+                "y": 268.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 16,
+            "tl_coordinates": {
+                "x": 1160.0,
+                "y": 251.0
+            },
+            "br_coordinates": {
+                "x": 1177.0,
+                "y": 275.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 17,
+            "tl_coordinates": {
+                "x": 1142.0,
+                "y": 255.0
+            },
+            "br_coordinates": {
+                "x": 1162.0,
+                "y": 277.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 18,
+            "tl_coordinates": {
+                "x": 1130.0,
+                "y": 257.0
+            },
+            "br_coordinates": {
+                "x": 1147.0,
+                "y": 281.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 19,
+            "tl_coordinates": {
+                "x": 1115.0,
+                "y": 262.0
+            },
+            "br_coordinates": {
+                "x": 1134.0,
+                "y": 285.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 20,
+            "tl_coordinates": {
+                "x": 1103.0,
+                "y": 266.0
+            },
+            "br_coordinates": {
+                "x": 1119.0,
+                "y": 287.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 21,
+            "tl_coordinates": {
+                "x": 1087.0,
+                "y": 270.0
+            },
+            "br_coordinates": {
+                "x": 1104.0,
+                "y": 294.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 22,
+            "tl_coordinates": {
+                "x": 1089.0,
+                "y": 298.0
+            },
+            "br_coordinates": {
+                "x": 1072.0,
+                "y": 275.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 23,
+            "tl_coordinates": {
+                "x": 1057.0,
+                "y": 277.0
+            },
+            "br_coordinates": {
+                "x": 1074.0,
+                "y": 300.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 24,
+            "tl_coordinates": {
+                "x": 1042.0,
+                "y": 279.0
+            },
+            "br_coordinates": {
+                "x": 1059.0,
+                "y": 305.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 25,
+            "tl_coordinates": {
+                "x": 1027.0,
+                "y": 281.0
+            },
+            "br_coordinates": {
+                "x": 1044.0,
+                "y": 307.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 26,
+            "tl_coordinates": {
+                "x": 1012.0,
+                "y": 283.0
+            },
+            "br_coordinates": {
+                "x": 1029.0,
+                "y": 311.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 27,
+            "tl_coordinates": {
+                "x": 995.0,
+                "y": 285.0
+            },
+            "br_coordinates": {
+                "x": 1014.0,
+                "y": 313.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 28,
+            "tl_coordinates": {
+                "x": 984.0,
+                "y": 290.0
+            },
+            "br_coordinates": {
+                "x": 999.0,
+                "y": 315.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 29,
+            "tl_coordinates": {
+                "x": 954.0,
+                "y": 292.0
+            },
+            "br_coordinates": {
+                "x": 969.0,
+                "y": 320.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 30,
+            "tl_coordinates": {
+                "x": 939.0,
+                "y": 296.0
+            },
+            "br_coordinates": {
+                "x": 956.0,
+                "y": 322.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 31,
+            "tl_coordinates": {
+                "x": 922.0,
+                "y": 298.0
+            },
+            "br_coordinates": {
+                "x": 939.0,
+                "y": 324.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 32,
+            "tl_coordinates": {
+                "x": 911.0,
+                "y": 298.0
+            },
+            "br_coordinates": {
+                "x": 924.0,
+                "y": 326.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 33,
+            "tl_coordinates": {
+                "x": 894.0,
+                "y": 300.0
+            },
+            "br_coordinates": {
+                "x": 909.0,
+                "y": 328.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 34,
+            "tl_coordinates": {
+                "x": 879.0,
+                "y": 300.0
+            },
+            "br_coordinates": {
+                "x": 894.0,
+                "y": 328.0
+            }
+        },
+        {
+            "row_number": 2,
+            "space_number": 35,
+            "tl_coordinates": {
+                "x": 864.0,
+                "y": 302.0
+            },
+            "br_coordinates": {
+                "x": 879.0,
+                "y": 330.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 1,
+            "tl_coordinates": {
+                "x": 1384.0,
+                "y": 223.0
+            },
+            "br_coordinates": {
+                "x": 1406.0,
+                "y": 245.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 2,
+            "tl_coordinates": {
+                "x": 1371.0,
+                "y": 225.0
+            },
+            "br_coordinates": {
+                "x": 1389.0,
+                "y": 249.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 3,
+            "tl_coordinates": {
+                "x": 1356.0,
+                "y": 230.0
+            },
+            "br_coordinates": {
+                "x": 1376.0,
+                "y": 251.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 4,
+            "tl_coordinates": {
+                "x": 1344.0,
+                "y": 234.0
+            },
+            "br_coordinates": {
+                "x": 1363.0,
+                "y": 257.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 5,
+            "tl_coordinates": {
+                "x": 1329.0,
+                "y": 238.0
+            },
+            "br_coordinates": {
+                "x": 1348.0,
+                "y": 260.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 6,
+            "tl_coordinates": {
+                "x": 1314.0,
+                "y": 242.0
+            },
+            "br_coordinates": {
+                "x": 1333.0,
+                "y": 266.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 7,
+            "tl_coordinates": {
+                "x": 1299.0,
+                "y": 247.0
+            },
+            "br_coordinates": {
+                "x": 1318.0,
+                "y": 268.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 8,
+            "tl_coordinates": {
+                "x": 1286.0,
+                "y": 249.0
+            },
+            "br_coordinates": {
+                "x": 1305.0,
+                "y": 272.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 9,
+            "tl_coordinates": {
+                "x": 1271.0,
+                "y": 253.0
+            },
+            "br_coordinates": {
+                "x": 1290.0,
+                "y": 277.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 10,
+            "tl_coordinates": {
+                "x": 1258.0,
+                "y": 260.0
+            },
+            "br_coordinates": {
+                "x": 1275.0,
+                "y": 279.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 11,
+            "tl_coordinates": {
+                "x": 1243.0,
+                "y": 262.0
+            },
+            "br_coordinates": {
+                "x": 1260.0,
+                "y": 283.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 12,
+            "tl_coordinates": {
+                "x": 1228.0,
+                "y": 266.0
+            },
+            "br_coordinates": {
+                "x": 1245.0,
+                "y": 285.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 13,
+            "tl_coordinates": {
+                "x": 1213.0,
+                "y": 270.0
+            },
+            "br_coordinates": {
+                "x": 1232.0,
+                "y": 292.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 14,
+            "tl_coordinates": {
+                "x": 1196.0,
+                "y": 275.0
+            },
+            "br_coordinates": {
+                "x": 1217.0,
+                "y": 294.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 15,
+            "tl_coordinates": {
+                "x": 1183.0,
+                "y": 279.0
+            },
+            "br_coordinates": {
+                "x": 1200.0,
+                "y": 300.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 16,
+            "tl_coordinates": {
+                "x": 1168.0,
+                "y": 283.0
+            },
+            "br_coordinates": {
+                "x": 1185.0,
+                "y": 302.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 17,
+            "tl_coordinates": {
+                "x": 1153.0,
+                "y": 287.0
+            },
+            "br_coordinates": {
+                "x": 1170.0,
+                "y": 307.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 18,
+            "tl_coordinates": {
+                "x": 1138.0,
+                "y": 292.0
+            },
+            "br_coordinates": {
+                "x": 1155.0,
+                "y": 313.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 19,
+            "tl_coordinates": {
+                "x": 1125.0,
+                "y": 294.0
+            },
+            "br_coordinates": {
+                "x": 1142.0,
+                "y": 317.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 20,
+            "tl_coordinates": {
+                "x": 1110.0,
+                "y": 298.0
+            },
+            "br_coordinates": {
+                "x": 1127.0,
+                "y": 317.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 21,
+            "tl_coordinates": {
+                "x": 1095.0,
+                "y": 302.0
+            },
+            "br_coordinates": {
+                "x": 1112.0,
+                "y": 324.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 22,
+            "tl_coordinates": {
+                "x": 1078.0,
+                "y": 307.0
+            },
+            "br_coordinates": {
+                "x": 1100.0,
+                "y": 328.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 23,
+            "tl_coordinates": {
+                "x": 1063.0,
+                "y": 307.0
+            },
+            "br_coordinates": {
+                "x": 1080.0,
+                "y": 332.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 24,
+            "tl_coordinates": {
+                "x": 1050.0,
+                "y": 311.0
+            },
+            "br_coordinates": {
+                "x": 1065.0,
+                "y": 334.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 25,
+            "tl_coordinates": {
+                "x": 1033.0,
+                "y": 313.0
+            },
+            "br_coordinates": {
+                "x": 1050.0,
+                "y": 339.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 26,
+            "tl_coordinates": {
+                "x": 1018.0,
+                "y": 315.0
+            },
+            "br_coordinates": {
+                "x": 1038.0,
+                "y": 341.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 27,
+            "tl_coordinates": {
+                "x": 1005.0,
+                "y": 317.0
+            },
+            "br_coordinates": {
+                "x": 1023.0,
+                "y": 343.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 28,
+            "tl_coordinates": {
+                "x": 971.0,
+                "y": 326.0
+            },
+            "br_coordinates": {
+                "x": 1001.0,
+                "y": 332.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 29,
+            "tl_coordinates": {
+                "x": 937.0,
+                "y": 330.0
+            },
+            "br_coordinates": {
+                "x": 967.0,
+                "y": 337.0
+            }
+        },
+        {
+            "row_number": 3,
+            "space_number": 30,
+            "tl_coordinates": {
+                "x": 905.0,
+                "y": 334.0
+            },
+            "br_coordinates": {
+                "x": 933.0,
+                "y": 341.0
+            }
+        },
+        {
+            "row_number": 4,
+            "space_number": 1,
+            "tl_coordinates": {
+                "x": 1442.0,
+                "y": 277.0
+            },
+            "br_coordinates": {
+                "x": 1461.0,
+                "y": 300.0
+            }
+        },
+        {
+            "row_number": 4,
+            "space_number": 2,
+            "tl_coordinates": {
+                "x": 1427.0,
+                "y": 281.0
+            },
+            "br_coordinates": {
+                "x": 1446.0,
+                "y": 305.0
+            }
+        },
+        {
+            "row_number": 4,
+            "space_number": 3,
+            "tl_coordinates": {
+                "x": 1414.0,
+                "y": 285.0
+            },
+            "br_coordinates": {
+                "x": 1431.0,
+                "y": 311.0
+            }
+        },
+        {
+            "row_number": 4,
+            "space_number": 4,
+            "tl_coordinates": {
+                "x": 1401.0,
+                "y": 288.0
+            },
+            "br_coordinates": {
+                "x": 1416.0,
+                "y": 313.0
+            }
+        },
+        {
+            "row_number": 4,
+            "space_number": 5,
+            "tl_coordinates": {
+                "x": 1384.0,
+                "y": 292.0
+            },
+            "br_coordinates": {
+                "x": 1404.0,
+                "y": 317.0
+            }
+        },
+        {
+            "row_number": 4,
+            "space_number": 6,
+            "tl_coordinates": {
+                "x": 1369.0,
+                "y": 296.0
+            },
+            "br_coordinates": {
+                "x": 1389.0,
+                "y": 322.0
+            }
+        },
+        {
+            "row_number": 4,
+            "space_number": 7,
+            "tl_coordinates": {
+                "x": 1354.0,
+                "y": 302.0
+            },
+            "br_coordinates": {
+                "x": 1374.0,
+                "y": 326.0
+            }
+        },
+        {
+            "row_number": 4,
+            "space_number": 8,
+            "tl_coordinates": {
+                "x": 1341.0,
+                "y": 305.0
+            },
+            "br_coordinates": {
+                "x": 1359.0,
+                "y": 330.0
+            }
+        },
+        {
+            "row_number": 4,
+            "space_number": 9,
+            "tl_coordinates": {
+                "x": 1326.0,
+                "y": 307.0
+            },
+            "br_coordinates": {
+                "x": 1346.0,
+                "y": 334.0
+            }
+        },
+        {
+            "row_number": 4,
+            "space_number": 10,
+            "tl_coordinates": {
+                "x": 1311.0,
+                "y": 311.0
+            },
+            "br_coordinates": {
+                "x": 1331.0,
+                "y": 337.0
+            }
+        },
+        {
+            "row_number": 4,
+            "space_number": 11,
+            "tl_coordinates": {
+                "x": 1299.0,
+                "y": 315.0
+            },
+            "br_coordinates": {
+                "x": 1316.0,
+                "y": 341.0
+            }
+        },
+        {
+            "row_number": 4,
+            "space_number": 12,
+            "tl_coordinates": {
+                "x": 1284.0,
+                "y": 320.0
+            },
+            "br_coordinates": {
+                "x": 1303.0,
+                "y": 345.0
+            }
+        },
+        {
+            "row_number": 4,
+            "space_number": 13,
+            "tl_coordinates": {
+                "x": 1269.0,
+                "y": 322.0
+            },
+            "br_coordinates": {
+                "x": 1288.0,
+                "y": 349.0
+            }
+        },
+        {
+            "row_number": 4,
+            "space_number": 14,
+            "tl_coordinates": {
+                "x": 1254.0,
+                "y": 328.0
+            },
+            "br_coordinates": {
+                "x": 1273.0,
+                "y": 354.0
+            }
+        },
+        {
+            "row_number": 5,
+            "space_number": 1,
+            "tl_coordinates": {
+                "x": 1500.0,
+                "y": 324.0
+            },
+            "br_coordinates": {
+                "x": 1506.0,
+                "y": 356.0
+            }
+        },
+        {
+            "row_number": 5,
+            "space_number": 2,
+            "tl_coordinates": {
+                "x": 1487.0,
+                "y": 328.0
+            },
+            "br_coordinates": {
+                "x": 1491.0,
+                "y": 358.0
+            }
+        },
+        {
+            "row_number": 5,
+            "space_number": 3,
+            "tl_coordinates": {
+                "x": 1470.0,
+                "y": 330.0
+            },
+            "br_coordinates": {
+                "x": 1478.0,
+                "y": 360.0
+            }
+        },
+        {
+            "row_number": 5,
+            "space_number": 4,
+            "tl_coordinates": {
+                "x": 1453.0,
+                "y": 334.0
+            },
+            "br_coordinates": {
+                "x": 1459.0,
+                "y": 364.0
+            }
+        },
+        {
+            "row_number": 5,
+            "space_number": 5,
+            "tl_coordinates": {
+                "x": 1438.0,
+                "y": 339.0
+            },
+            "br_coordinates": {
+                "x": 1442.0,
+                "y": 369.0
+            }
+        },
+        {
+            "row_number": 5,
+            "space_number": 6,
+            "tl_coordinates": {
+                "x": 1423.0,
+                "y": 343.0
+            },
+            "br_coordinates": {
+                "x": 1427.0,
+                "y": 373.0
+            }
+        },
+        {
+            "row_number": 5,
+            "space_number": 7,
+            "tl_coordinates": {
+                "x": 1406.0,
+                "y": 347.0
+            },
+            "br_coordinates": {
+                "x": 1410.0,
+                "y": 379.0
+            }
+        },
+        {
+            "row_number": 5,
+            "space_number": 8,
+            "tl_coordinates": {
+                "x": 1391.0,
+                "y": 349.0
+            },
+            "br_coordinates": {
+                "x": 1395.0,
+                "y": 382.0
+            }
+        },
+        {
+            "row_number": 5,
+            "space_number": 9,
+            "tl_coordinates": {
+                "x": 1374.0,
+                "y": 356.0
+            },
+            "br_coordinates": {
+                "x": 1378.0,
+                "y": 390.0
+            }
+        },
+        {
+            "row_number": 5,
+            "space_number": 10,
+            "tl_coordinates": {
+                "x": 1359.0,
+                "y": 360.0
+            },
+            "br_coordinates": {
+                "x": 1361.0,
+                "y": 392.0
+            }
+        },
+        {
+            "row_number": 5,
+            "space_number": 11,
+            "tl_coordinates": {
+                "x": 1346.0,
+                "y": 360.0
+            },
+            "br_coordinates": {
+                "x": 1346.0,
+                "y": 397.0
+            }
+        },
+        {
+            "row_number": 5,
+            "space_number": 12,
+            "tl_coordinates": {
+                "x": 1326.0,
+                "y": 367.0
+            },
+            "br_coordinates": {
+                "x": 1331.0,
+                "y": 403.0
+            }
+        }
+    ],
+    "Intersections": [
+        {
+            "name": "Entry",
+            "coordinates": {
+                "x": 1705,
+                "y": 315
+            }
+        },
+        {
+            "name": "Intersection 1",
+            "coordinates": {
+                "x": 1504,
+                "y": 292
+            }
+        },
+        {
+            "name": "Intersection 2",
+            "coordinates": {
+                "x": 1448,
+                "y": 247
+            }
+        },
+        {
+            "name": "Intersection 3",
+            "coordinates": {
+                "x": 1395,
+                "y": 165
+            }
+        }
+    ]
+}

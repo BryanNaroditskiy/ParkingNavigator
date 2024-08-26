@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PSU Map and Directions</title>
+  <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcjri2QTN4pWrXKl4cpmU9VrstntjLM9M&libraries=places&callback=initAutocomplete"></script>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #fff;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      width: 100%;
+      font-size: 12px;
+    }
+    .header, .footer {
+      background-color: #003366; /* PSU Navy Blue */
+      color: #fff;
+      padding: 1rem;
+      text-align: center;
+    }
+    .content {
+      display: flex;
+      flex-direction: row;
+      padding: 0;
+      flex-grow: 1;
+      overflow: hidden;
+    }
+    .directions-content, .map-content {
+      border: 1px solid #003366; /* PSU Navy Blue */
+      margin: 1rem;
+      flex-grow: 1;
+      height: calc(100% - 2rem); /* Full height minus margin and header/footer */
+    }
+    .directions-content {
+      width: 30%;
+      display: flex;
+      flex-direction: column;
+    }
+    .input-container {
+      padding: 0.5rem;
+    }
+    .input-container input[type="text"] {
+      width: calc(100% - 1rem); /* Full width minus padding */
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+    .directions-container {
+      overflow-y: auto;
+      flex-grow: 1;
+    }
+    .map-content {
+      width: 70%;
+    }
+    .map-container {
+      height: 100%;
+    }
+    @media (max-width: 768px) {
+      .content {
+        flex-direction: column;
+      }
+      .directions-content, .map-content {
+        width: 100%;
+        height: auto;
+        margin: 1rem;
+      }
+    }
+  </style>
+</head>
+</script>
+<script>
+  var autocomplete;
+
+  function initAutocomplete() {
+    // Create the autocomplete object, restricting the search to geographical location types.
+    autocomplete = new google.maps.places.Autocomplete(
+        (document.getElementById('autocomplete')), {types: ['geocode']});
+
+    // When the user selects an address from the dropdown, populate the address fields in the form.
+    autocomplete.addListener('place_changed', fillInAddress);
+  }
+
+  function fillInAddress() {
+    // Get the place details from the autocomplete object.
+    var place = autocomplete.getPlace();
+
+    // Get latitude and longitude from the place details and save it.
+    var latitude = place.geometry.location.lat();
+    var longitude = place.geometry.location.lng();
+
+    // Assuming you're using Fetch API to submit the coordinates
+    fetch('/submit_coordinates', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({latitude: latitude, longitude: longitude}),
+    })
+    .then(response => response.text())
+    .then(html => {
+      // Inject the HTML into the DOM
+      document.documentElement.innerHTML = html;
+    })
+    .catch((error) => {
+      console.error('Error:', error);
+    });
+
+  }
+</script>
+<body>
+
+<div class="header">
+  <h1>PSU Parking Navigator</h1>
+</div>
+
+<div class="content">
+  <div class="directions-content">
+    <div class="input-container">
+      <input id="autocomplete" placeholder="Enter a location..." type="text"/>
+    </div>
+    <div class="directions-container">
+      <!-- Directions will be dynamically inserted here -->
+      {% for direction in directions %}
+        <div class="direction-row">{{ direction }}</div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="map-content">
+    <div class="map-container">
+      <!-- Map will be dynamically inserted here -->
+      {{ map_html|safe }}
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <p>&copy; 2023 Penn State University</p>
+</div>
+
+</body>
+</html>
